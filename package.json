@@ -1,0 +1,26 @@
+{
+  "name": "majster",
+  "version": "1.0.0",
+  "description": "Bot Majster na serwer discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wojdi/Majster-bot.git"
+  },
+  "author": "Wojdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wojdi/Majster-bot/issues"
+  },
+  "homepage": "https://github.com/Wojdi/Majster-bot#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.7"
+  }
+}
