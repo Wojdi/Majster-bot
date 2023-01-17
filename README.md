@@ -4,3 +4,6 @@ Wymagane pakiety:
   - Discord.js
   - Chunk
   - Ascii table
+  
+  ## Projekt nie jest już wspierany
+  ### Nie jestem pewien czy bot w ogóle działa
